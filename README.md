@@ -38,10 +38,7 @@ The main purpose of this code is to display numbers on a seven-segment display. 
 - `printDigit(unsigned int digit, unsigned int numberOfDisplay)`: Prints a digit on a specific display.
 - `printLine(unsigned int numberOfDisplay)`: Selects a display line to print on.
 - `printNumber(int number)`: Prints a number on the display.
-- `cycle_digit_animation()`: Animates cycling through all digits.
-- `displayCarusel()`: Animates a carousel display.
-- `reversedDisplayCarusel()`: Animates a reversed carousel display.
-- `circle_animation()`: Animates switching between two display patterns.
+  
 
 ## Usage
 
